@@ -64,3 +64,5 @@ git stash apply 恢复工作现场 git stash drop 删除stash内容
 git stash pop 恢复的同时把stash内容也删了
 
 git cherry-pick HEAD 根据提交版本号HEAD复制一个特定的提交到当前分支
+
+test
